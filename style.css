@@ -19,3 +19,41 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #ce468a;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+#Subscribe{
+    height: 300px;
+}
+.btn{
+    padding: 5px 18px;
+    margin-top: 5px;
+}
+#Subscribe h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
